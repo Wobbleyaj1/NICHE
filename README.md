@@ -13,6 +13,8 @@ Real-Time Notifications: Stay informed with updates on your applications, new op
 
 Application Tracking: Monitor your application status and receive actionable insights to improve your chances of success.
 
+Résumé Builder: Create a polished and professional resume directly within NICHE. Use our easy-to-use tools to input your experience, skills, and education, and choose from various templates to craft a resume that stands out.
+
 ### Getting Started
 **Prerequisites**
 Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
